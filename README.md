@@ -3,6 +3,9 @@ Duplicate Task Options for kanboard
 
 Shows a form with extended options when duplicating a task
 
+### ALPHA-release ###
+This is my first ALPHA-release in order to be able to share my code. The plugin does currently NOT WORK!!!
+
 Author
 ------
 
